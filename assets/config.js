@@ -1,3 +1,3 @@
 var config = {
-    GIPHY_API_KEY : 'xtpfYZdjgPj82u3H7TZEODHTWlef6Udk'
+    GIPHY_API_KEY : '7i9Vcqcpbi0AHR0AG16ZXISSqAh7eC7f'
 }
